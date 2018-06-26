@@ -1,0 +1,3 @@
+GET http://localhost:3000/favourites
+Authorization: Bearer 007
+// Authorization: Bearer 006
